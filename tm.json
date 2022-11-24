@@ -1,0 +1,7 @@
+{
+  "name": "Test",
+  "description": "TestnetCoins.io",
+  "ticker": "TEST",
+  "homepage": "https://testnetcoins.io",
+  "extended": "https://testnetcoins.io/s/tm.json"
+}
