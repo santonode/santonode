@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santonode
 - 👀 I’m interested in Cardano
 - 🌱 I’m currently learning Stake Pool Ops
-- 💞️ I’m looking to collaborate on Marketing
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me twitter.com/santonode
 - https://www.linkedin.com/in/chrisenunez/
 
