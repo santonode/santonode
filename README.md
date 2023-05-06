@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cardano
 - 🌱 I’m currently learning Stake Pool Ops
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me twitter.com/santonode
+- 📫 How to reach me https://twitter.com/santonode
 - https://www.linkedin.com/in/chrisenunez/
 
 <!---
