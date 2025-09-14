@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently Building
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me https://twitter.com/santolocals
+- 📫 How to reach me https://twitter.com/santolabs
 - https://www.linkedin.com/in/chrisenunez/
 
 <!---
